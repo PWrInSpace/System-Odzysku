@@ -1,0 +1,4 @@
+Działanie Programu:
+
+1) Odbieramy komendy z XBee typu: (odwórz/zamknij zawór)
+2) Otwieramy zawór o odpowiedni kąt przy użyciu encodera wiemy w jakim polozeniu jest zawor
